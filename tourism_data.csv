@@ -1,0 +1,31 @@
+month,visitor_origin,destination,tourist_count,tourism_revenue_inr,average_stay_days,visitor_type
+2025-01,India,Chennai,12000,1800000,3.2,Domestic
+2025-01,India,Ooty,8500,1275000,2.8,Domestic
+2025-01,India,Goa,14500,3625000,4.1,Domestic
+2025-01,Sri Lanka,Chennai,4200,840000,3.0,International
+2025-01,Singapore,Goa,3100,1085000,3.8,International
+2025-02,India,Chennai,13200,1980000,3.1,Domestic
+2025-02,India,Ooty,9100,1365000,2.9,Domestic
+2025-02,India,Goa,15800,3950000,4.0,Domestic
+2025-02,Malaysia,Chennai,4700,940000,3.2,International
+2025-02,Singapore,Goa,3500,1225000,3.9,International
+2025-03,India,Chennai,14800,2220000,3.3,Domestic
+2025-03,India,Ooty,10500,1575000,3.0,Domestic
+2025-03,India,Goa,17100,4275000,4.2,Domestic
+2025-03,Sri Lanka,Ooty,3900,585000,2.7,International
+2025-03,Malaysia,Goa,4200,1470000,3.7,International
+2025-04,India,Chennai,13900,2085000,3.2,Domestic
+2025-04,India,Ooty,9800,1470000,3.1,Domestic
+2025-04,India,Goa,16300,4075000,4.1,Domestic
+2025-04,Singapore,Chennai,5200,1040000,3.4,International
+2025-04,Malaysia,Ooty,3600,540000,2.9,International
+2025-05,India,Chennai,16500,2475000,3.4,Domestic
+2025-05,India,Ooty,14200,2130000,3.5,Domestic
+2025-05,India,Goa,18500,4625000,4.3,Domestic
+2025-05,Sri Lanka,Chennai,5600,1120000,3.6,International
+2025-05,Singapore,Goa,4900,1715000,4.0,International
+2025-06,India,Chennai,15300,2295000,3.2,Domestic
+2025-06,India,Ooty,12800,1920000,3.4,Domestic
+2025-06,India,Goa,17700,4425000,4.0,Domestic
+2025-06,Malaysia,Chennai,6100,1220000,3.5,International
+2025-06,Sri Lanka,Ooty,4300,645000,3.0,International
